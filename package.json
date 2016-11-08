@@ -1,0 +1,24 @@
+{
+    "author": "gabrielaradu.developer@gmail.c",
+    "dependencies": {},
+    "keywords": [],
+    "name": "deiscreen",
+    "pebble": {
+        "displayName": "DeiScreen",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "chalk"
+        ],
+        "uuid": "54021182-0d37-4104-addd-0c09d73b3e5b",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
